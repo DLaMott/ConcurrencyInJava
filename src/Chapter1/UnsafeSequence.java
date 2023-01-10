@@ -1,4 +1,4 @@
-package ChapterOne;
+package Chapter1;
 
 public class UnsafeSequence {
 
