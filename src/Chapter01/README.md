@@ -20,7 +20,24 @@ by running multithreaded and asynchronous.
 
 </blockquote>
 
+<blockquote>
+<h1>Threads?</h1>
+<blockquote>
+- Threads "often called lightweight processors" are treated as a basic unit of scheduling.
 
+Threads execute asynchronously and simultaneously with respect to one another.
+</blockquote>
+
+<h3>Benefits of Threads</h3>
+- Reduce development and maintenance costs
+- Turn convoluted code into straight-line maintainable code
+- Improve responsiveness of GUI applications
+- Simplify the implementation of the JVM
+
+<h3>Risks of threads</h3>
+- 
+
+</blockquote>
 
 
 TBD
